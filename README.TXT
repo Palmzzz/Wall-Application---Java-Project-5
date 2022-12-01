@@ -2,7 +2,7 @@ My fifth project was to create a model of a ‘wall’
 
 I needed to draw a brick wall, of various shapes and colour patterns. 
 
-The wall had to be made of pricks, 52 pixels wide and 15 pixels high 
+The wall had to be made of bricks, 52 pixels wide and 15 pixels high 
 
 The bottom left corner of the wall must always be at the coordinates 20,500
 
